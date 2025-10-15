@@ -1,0 +1,11 @@
+s3 migration work
+s3 public to private
+rbac on django admin
+live monitirng on redis stream
+ci/cd
+prometheus
+leadership ec2
+batch insertion and batch updation
+
+unit tesitng okay
+microservies and kafka
